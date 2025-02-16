@@ -4,14 +4,15 @@ Water Dawgs was a paid summer program designed to provide high school students, 
 Here, we provide all instructional materials for the Water Dawgs both in English and in Spanish. 
 
 The summer training program includes the following materials:​
-  Program outline​
-  Supply list​
-  Pre-training instructor to-do list​
-  Pre-, mid-, and post-training surveys
-  Student recruitment materials​
-  Parent meeting materials​
-  17 learning plans (3.5 hours each)
-Each learning plan includes the following materials:​
-  Instructor guide​
-  PowerPoint
-  Student handouts
+- Program outline  
+- Supply list  
+- Pre-training instructor to-do list  
+- Pre-, mid-, and post-training surveys  
+- Student recruitment materials  
+- Parent meeting materials  
+- 17 learning plans (3.5 hours each)  
+
+Each learning plan includes the following materials:  
+- Instructor guide  
+- PowerPoint  
+- Student handouts  
