@@ -15,4 +15,29 @@ The summer training program includes the following materials:​
 Each learning plan includes the following materials:  
 - Instructor guide  
 - PowerPoint  
-- Student handouts  
+- Student handouts
+
+Learning plan topics are as followed:
+- #1: Program Introudction, Part A
+- #2: Program Introduction, Part B
+- #3: Urban Watersheds
+- #4: Stream Habitat Assessments
+- #5: Chemical Monitoring, Part A
+- #6: Chemical Monitoring, Part B
+- #7: Point and Non-Point Source Pollution
+- #8: Nutrient Monitoring
+- #9: Data Accuracy
+- #10: Professional Development
+- #11: Drinking Water and Human Health
+- #12: Bacterial Monitroing
+- #13: Stream Food Webs
+- #14: Basal Resources
+- #15: Biodiversity
+- #16: Stream Bioassessments, Part A
+- #17: Stream Bioassessments, Part B
+- #18: Stream Bioassessments, Part C
+- #19: Pollution Mitigation Strategies
+- #20: Program Conclusion
+
+If you have questions regarding these materials, please contact Kelsey Solomon at kjsolomon89@gmail.com
+
