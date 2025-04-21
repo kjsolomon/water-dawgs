@@ -18,7 +18,7 @@ Each learning plan includes the following materials:
 - Student handouts
 
 Learning plan topics are as followed:
-- #1: Program Introudction, Part A
+- #1: Program Introduction, Part A
 - #2: Program Introduction, Part B
 - #3: Urban Watersheds
 - #4: Stream Habitat Assessments
