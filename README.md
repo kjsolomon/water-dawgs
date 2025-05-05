@@ -39,5 +39,8 @@ Learning plan topics are as followed:
 - #19: Pollution Mitigation Strategies
 - #20: Program Conclusion
 
-If you have questions regarding these materials, please contact Kelsey Solomon at kjsolomon89@gmail.com
+If you have questions regarding these materials, please contact Kelsey Solomon at kjsolomon89@gmail.com or Krista Capps at kcapps@uga.edu.
+
+The program was designed and funded as part of two awards funded by the National Science Foundation (Award numbers 2015619 and 1941555). 
+
 
